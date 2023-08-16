@@ -26,4 +26,4 @@
 |Competition|Prize|Date|
 |------|---|---|
 
-[InDaegu's GitHub stats](https://github-readme-stats.vercel.app/api?username=indaegu&show_icons=true&theme=radical)
+![InDaegu's GitHub stats](https://github-readme-stats.vercel.app/api?username=indaegu&show_icons=true&theme=radical)
