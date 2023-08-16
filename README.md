@@ -1,7 +1,7 @@
 ### Hi Welcome, i'm InDaeGu 👋
 
 #### Web Devleoper
-- Backend: Java SpringBoot, node.js / Frontend: React : Junior Developer Interested in Developing a Full Stack Web
+- Junior Developer Preparing for Full Stack Developer
 - Developers who build theory and working sense of development by carrying out various projects
 - Developers who always challenge and learn new technology stacks with a spirit of constant challenge
 
