@@ -27,4 +27,5 @@
 |------|---|---|
 
 ![InDaegu's GitHub stats](https://github-readme-stats.vercel.app/api?username=indaegu&show_icons=true&theme=radical)
+
 ![InDaegu's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indaegu&langs_count=8)
