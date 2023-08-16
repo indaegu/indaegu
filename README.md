@@ -21,7 +21,7 @@
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)](https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)
 
 
-
+/*
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
@@ -29,3 +29,4 @@
 ![InDaegu's GitHub stats](https://github-readme-stats.vercel.app/api?username=indaegu&show_icons=true&theme=radical)
 
 ![InDaegu's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indaegu&langs_count=8)
+*/
