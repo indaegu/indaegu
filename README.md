@@ -1,5 +1,5 @@
 ### Hi Welcome, i'm InDaeGu 👋
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 #### Web Devleoper
 - Junior Developer Preparing for Full Stack Developer
 - Developers who build theory and working sense of development by carrying out various projects
