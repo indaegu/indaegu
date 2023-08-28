@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Indaegu's Github&fontSize=100" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Indaegu Github&fontSize=100" />
 
 # Web Devleoper
 - Junior Developer Preparing for Full Stack Developer
