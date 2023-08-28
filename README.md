@@ -29,5 +29,9 @@
 ![InDaegu's GitHub stats](https://github-readme-stats.vercel.app/api?username=indaegu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indaegu&layout=compact)](https://github.com/indaegu/github-readme-stats)
 
+<div align="center">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=indaegu&&show_icons=true&theme=radical">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indaegu&layout=compact&theme=radical"> -->
+
 
 
