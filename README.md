@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Indaegu's%20Github!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20IndaeGu's%20Github!&fontSize=50" />
 
 ### 👋 안녕하세요! 신입 웹개발자 InDaeGu를 소개합니다!
 
