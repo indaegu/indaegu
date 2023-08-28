@@ -18,15 +18,11 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hys1693359@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)](https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-
-![InDaegu's GitHub stats](https://github-readme-stats.vercel.app/api?username=indaegu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indaegu&layout=compact)](https://github.com/indaegu/github-readme-stats)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
