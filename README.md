@@ -1,9 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Indaegu's%20Github!&fontSize=50" />
 
-# Web Devleoper
-- Junior Developer Preparing for Full Stack Developer
-- Developers who build theory and working sense of development by carrying out various projects
-- Developers who always challenge and learn new technology stacks with a spirit of constant challenge
+### 👋 안녕하세요! 신입 웹개발자 InDaeGu를 소개합니다!
+
+- **프로젝트 경험**: 다양한 분야에서의 프로젝트 경험을 보유하고 있습니다. 웹 서비스 플랫폼, 계좌정보 추출 프로그램, 취업관련 웹 사이트 제작 등에서 다양한 역할을 수행했습니다.
+
+- **팀 리더십과 커뮤니케이션**: 팀원들과의 협력을 중요시하며, 백엔드와 프론트엔드 개발 간의 원활한 커뮤니케이션 능력을 갖추고 있습니다.
+
+- **사용자 경험 중심 개발**: 사용자의 편의성과 경험을 최우선으로 두고 개발합니다. 사용자의 필요와 기대를 충족시키기 위한 노력을 지속적으로 해왔습니다.
+
+- **철학**: 계획의 체계성과 명확한 커뮤니케이션을 통해 프로젝트의 성공을 위해 끊임없이 노력하고 있습니다.
 
 
 🛠️ Stacks
