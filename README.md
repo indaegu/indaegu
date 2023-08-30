@@ -16,6 +16,7 @@
 - **사용자 경험 중심 개발**: 사용자의 편의성과 경험을 최우선으로 두고 개발합니다.
 
 - **철학**: 계획의 체계성, 명확한 커뮤니케이션과 새로운 경험을 통한 성장을 중요시 합니다.
+  
 <br>
 <br>
 🛠️ Stacks
@@ -24,17 +25,20 @@
 - Server :  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/amazonEC2-FF9900?style=flat-square&logo=amazonEC2&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/amazonRDS-527FFF?style=flat-square&logo=amazonRDS&logoColor=white">
 - Tooling/ DevOps : <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 - ETC : <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+
 <br>
 <br>
 🐱 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hys1693359@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)](https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)
+  
 <br>
 <br>
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
+
 <br>
 <br>
 :bar_chart: Stats
