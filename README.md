@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Indaegu's%20Github!&fontSize=50" />
-
 <div align="right">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Findaegu%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EA%B0%9D%EC%88%98+%3A+&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -17,7 +16,6 @@
 - **철학**: 계획의 체계성, 명확한 커뮤니케이션과 새로운 경험을 통한 성장을 중요시 합니다.
   
 <br>
-<br>
 
 ## 🛠️ Stacks
 - Programing Languages : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -27,7 +25,6 @@
 - ETC : <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 
 <br>
-<br>
 
 ## 🐱 Contact Me
 
@@ -35,13 +32,11 @@
 - 간단 이력 :  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)](https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)
 
 <br>
-<br>
 
 ## 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
 
-<br>
 <br>
 
 ## :bar_chart: Stats
