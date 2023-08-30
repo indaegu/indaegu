@@ -36,12 +36,14 @@
   
 <br>
 <br>
+
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
 
 <br>
 <br>
+
 :bar_chart: Stats
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
