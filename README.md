@@ -18,7 +18,6 @@
 - **철학**: 계획의 체계성, 명확한 커뮤니케이션과 새로운 경험을 통한 성장을 중요시 합니다.
 <br>
 <br>
-  
 🛠️ Stacks
 - Programing Languages : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 - Framework/ Library : <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -27,25 +26,17 @@
 - ETC : <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 <br>
 <br>
-
-
-
 🐱 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hys1693359@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)](https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)
 <br>
 <br>
-
-
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
 <br>
 <br>
-
-
-
 :bar_chart: Stats
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
