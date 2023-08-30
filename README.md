@@ -7,10 +7,10 @@
 </div>
 
 
-### 👋 안녕하세요! 신입 웹개발자 InDaeGu를 소개합니다! 
-<div align="right">
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hys1693359@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)](https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d)
+<div style="display: flex; align-items: center;">
+  <h3 style="margin-right: 10px;">👋 안녕하세요! 신입 웹개발자 InDaeGu를 소개합니다!</h3>
+  <a href="mailto:hys1693359@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.notion.so/8ed22f6697d1445d8b01c7b0d450273d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
 </div>
 
 - **프로젝트 경험**: 다양한 분야에서의 프로젝트 경험을 보유하고 있습니다. 웹 서비스 플랫폼, 계좌정보 추출 프로그램, 취업관련 웹 사이트 제작 등에서 다양한 역할을 수행했습니다.
