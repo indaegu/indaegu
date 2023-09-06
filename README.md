@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Indaegu's%20Github!&fontSize=50" />
-<div align="right">  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=50&center=true&vCenter=true&width=800&height=60&lines=%E3%80%80%E3%80%80Welcome%20to%20Indaegu's%20Github!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Findaegu%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=Visits%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+<!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Indaegu's%20Github!&fontSize=50" />
+ -->
 
 
 ### :bow: 안녕하십니까! 신입 백엔드 개발자 InDaeGu를 소개합니다!  
@@ -39,3 +37,12 @@
 
 ## :bar_chart: Stats
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<br>
+
+<div align="right"> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Findaegu%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=Visits%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
