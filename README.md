@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=50&center=true&vCenter=true&width=800&height=60&lines=%E3%80%80%E3%80%80Welcome%20to%20Indaegu's%20Github!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=60&duration=2500&pause=3000&color=499CEB&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+Indaegu's+Github!!)](https://git.io/typing-svg)
 
 <!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Indaegu's%20Github!&fontSize=50" />
  -->
 
 
-### :bow: 안녕하십니까! 신입 백엔드 개발자 InDaeGu를 소개합니다!  
+### 🙇 안녕하십니까! 신입 백엔드 개발자 InDaeGu를 소개합니다!  
 - **프로젝트 경험**: 다양한 분야에서의 프로젝트 경험을 보유하고 있습니다. 웹 서비스 플랫폼, 계좌정보 추출 프로그램, 취업관련 웹 사이트 등에서 다양한 역할을 수행했습니다.
 
 - **팀 리더십과 커뮤니케이션**: 팀원들과의 협력을 중요시하며, 백엔드와 프론트엔드 개발 간의 원활한 커뮤니케이션 능력을 갖추고 있습니다.
@@ -35,7 +35,7 @@
 
 <br>
 
-## :bar_chart: Stats
+## 📊 Stats
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br>
