@@ -4,14 +4,7 @@
  -->
 
 
-## 🙇 안녕하십니까! 백엔드 개발자 InDaeGu를 소개합니다!  
-- **프로젝트 경험**: 다양한 분야에서의 프로젝트 경험을 보유하고 있습니다. 웹 서비스 플랫폼, 계좌정보 추출 프로그램, 취업관련 웹 사이트 등에서 다양한 역할을 수행했습니다.
-
-- **팀 리더십과 커뮤니케이션**: 팀원들과의 협력을 중요시하며, 백엔드와 프론트엔드 개발 간의 원활한 커뮤니케이션 능력을 갖추고 있습니다.
-
-- **철학**: 계획의 체계성, 명확한 커뮤니케이션과 새로운 경험을 통한 성장을 중요시 합니다.
-  
-<br>
+### 🙇 안녕하십니까! 백엔드 개발자 InDaeGu를 소개합니다!  
 
 ## 🛠️ Stacks
 - **Programing Languages** : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
