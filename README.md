@@ -4,14 +4,16 @@
  -->
 
 
-### 🙇 안녕하십니까! 백엔드 개발자 InDaeGu를 소개합니다!  
+### 🙇 안녕하십니까! 성장하는 개발자 InDaeGu를 소개합니다!  
 
 ## 🛠️ Stacks
-- **Programing Languages** : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+- **Programing Languages** : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 - **Framework/ Library** : <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
-- **Server** :  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/amazonEC2-FF9900?style=flat-square&logo=amazonEC2&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/amazonRDS-527FFF?style=flat-square&logo=amazonRDS&logoColor=white">
-- **Tooling/ DevOps** : <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-- **ETC** : <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+- **Server/DBMS** : <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/amazonEC2-FF9900?style=flat-square&logo=amazonEC2&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/amazonRDS-527FFF?style=flat-square&logo=amazonRDS&logoColor=white">
+- **Tooling/ DevOps** :  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/Eclipse-%232C2255?logo=eclipseide">
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+- **ETC** : <img alt="Static Badge" src="https://img.shields.io/badge/Teams-%236264A7?logo=microsoftteams">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 
 <br>
 
@@ -23,7 +25,8 @@
 ## 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-
+|ICT 한이음 공모전|한국정보산업연합회장상|2023-12-07|
+|프로젝트 최우수상|한국소프트웨어기술진흥협회|2023-12-29|
 <br>
 
 ## 📊 Stats
