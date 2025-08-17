@@ -22,7 +22,7 @@
 
 ## 💼 Experience (요약)
 
-- 하나저축은행 앱 **‘하나원큐 저축은행–디지털뱅킹’**의 **WebView(Frondend·Vue.js 2)** 및 **Spring Boot 서버** 개발
+- 하나저축은행 앱 '하나원큐 저축은행–디지털뱅킹'의 **WebView(Frondend·Vue.js 2)** 및 **Spring Boot 서버** 개발
 - iOS/Android **네이티브 개발자와 협업**하여 **JS 브릿지** 설계·구현
 - **Linux & DB 로그 분석**으로 고객 이슈 재현 및 원인 규명, 운영 안정화
 - **하나금융티아이**에 근무하며 하나저축은행 **ITO(개발·운영)** 수행
