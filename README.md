@@ -35,7 +35,7 @@
 - **Email** :  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hys1693359@gmail.com)
 <br>
 
-## 🏆 Awards
+## 🏆 Achievements
 |Competition|Prize|Date|
 |------|---|---|
 |ICT&디지털혁신본부 2025 상반기 우수직원|우수직원|2025-07-31|
