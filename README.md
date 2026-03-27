@@ -1,19 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=60&duration=2500&pause=3000&color=499CEB&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+Indaegu's+Github!!)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=60&duration=2500&pause=3000&color=499CEB&center=true&vCenter=true&width=1000&height=120&lines=Welcome+to+Indaegu's+Github!!)](https://git.io/typing-svg)
+-->
 
 <!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Indaegu's%20Github!&fontSize=50" />
  -->
-
-
-### 🙇 안녕하십니까! 성장하는 개발자 InDaeGu를 소개합니다!
 [![Portfolio](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=✨%20Click%20And%20Check%20My%20Portfolio%20✨&fontSize=30&fontAlignY=40)](https://indaegu.github.io/portfolio/)<br>
-금융권 **하이브리드 앱(WebView)** 환경에서 프론트엔드(Vue.js 2)와 **Spring Boot** 서버를 함께 다루며, iOS/Android 네이티브와의 **브릿지(Bridge)** 연동, **Linux/DB 로그 기반 민원·장애 분석**, 배포 파이프라인 개선(Webpack/Jenkins/Docker)까지 **E2E로 문제를 해결**해온 개발자입니다. 하나금융티아이에서 하나저축은행 ITO(운영/개발)을 진행중입니다.
+
+### 🙇 안녕하십니까! 성장하는 개발자 Indaegu를 소개합니다!
+
+금융권 **하이브리드 앱(WebView)** 환경에서 프론트엔드와 **Spring Boot** 서버를 함께 다루며, iOS/Android 네이티브와의 **브릿지(Bridge)** 연동, **Linux/DB 로그 기반 민원·장애 분석**, 배포 파이프라인 개선(Webpack/Jenkins/Docker)까지 **E2E로 문제를 해결**해온 개발자입니다. 하나금융티아이에서 하나저축은행 스마트뱅킹 채널계를 담당중입니다.
 
 ## 🛠️ Stacks
-- **Programing Languages** : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-- **Framework/ Library** : <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
+- **Programing Languages** : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
+- **Framework/ Library** : <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"> 
+ 
 - **Server/DBMS** : <img alt="Static Badge" src="https://img.shields.io/badge/Postgresql-4169E1?logo=Postgresql&logoColor=white">
- <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/amazonEC2-FF9900?style=flat-square&logo=amazonEC2&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/amazonRDS-527FFF?style=flat-square&logo=amazonRDS&logoColor=white">
+ <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/amazonEC2-FF9900?style=flat-square&logo=amazonEC2&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/amazonRDS-527FFF?style=flat-square&logo=amazonRDS&logoColor=white"> -->
 - **Tooling/ DevOps** : <img alt="Static Badge" src="https://img.shields.io/badge/Eclipse-%232C2255?logo=eclipseide">  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 - **ETC** : <img alt="Static Badge" src="https://img.shields.io/badge/Teams-%236264A7?logo=microsoftteams">
  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
@@ -23,10 +26,10 @@
 
 ## 💼 Experience (요약)
 
-- 하나저축은행 앱 '하나원큐 저축은행–디지털뱅킹'의 **WebView(Frondend·Vue.js 2)** 및 **Spring Boot 서버** 개발
+- 하나저축은행 앱 '하나원큐 저축은행–디지털뱅킹'의 **WebView(Frondend)** 및 **Spring Boot 서버** 개발
 - iOS/Android **네이티브 개발자와 협업**하여 **JS 브릿지** 설계·구현
 - **Linux & DB 로그 분석**으로 고객 이슈 재현 및 원인 규명, 운영 안정화
-- **하나금융티아이**에 근무하며 하나저축은행 **ITO(개발·운영)** 수행
+- **하나금융티아이**에 근무하며 하나저축은행 **스마트뱅킹 채널계 개발** 수행
 - **Webpack/Jenkins/Docker**로 빌드·배포 최적화 및 자동화
 
 <br>
