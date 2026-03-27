@@ -5,7 +5,7 @@
 
 
 ### 🙇 안녕하십니까! 성장하는 개발자 InDaeGu를 소개합니다!
-[![Portfolio](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=✨%20Click%20And%20Check%20My%20Portfolio%20✨&fontSize=30&fontAlignY=40)]([https://indaegu.github.io/portfolio/])
+[![Portfolio](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=✨%20Click%20And%20Check%20My%20Portfolio%20✨&fontSize=30&fontAlignY=40)](https://indaegu.github.io/portfolio/)<br>
 금융권 **하이브리드 앱(WebView)** 환경에서 프론트엔드(Vue.js 2)와 **Spring Boot** 서버를 함께 다루며, iOS/Android 네이티브와의 **브릿지(Bridge)** 연동, **Linux/DB 로그 기반 민원·장애 분석**, 배포 파이프라인 개선(Webpack/Jenkins/Docker)까지 **E2E로 문제를 해결**해온 개발자입니다. 하나금융티아이에서 하나저축은행 ITO(운영/개발)을 진행중입니다.
 
 ## 🛠️ Stacks
