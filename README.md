@@ -293,7 +293,7 @@ Vue 2는 `aria-pressed`를 불리언 `false`로 바인딩하면 속성을 DOM에
 
 ### SBOM 기반 사내 오픈소스 취약점 관리 플랫폼
 
-`TypeScript` `React` `Next.js` `TanStack Query` `AWS` `Docker`
+`TypeScript` `Next.js` `TanStack Query` `AWS` `Docker`
 **2026.04 ~ 진행 중 | 사내 CoP 6인 팀 팀장, 프론트엔드 단독**
 
 - SBOM(SPDX, CycloneDX) 기반으로 사내 오픈소스 구성요소를 수집하고 자산 현황을 대시보드로 가시화
