@@ -7,7 +7,7 @@
 [Portfolio](https://indaegu.github.io/portfolio/) | [Email](mailto:hys1693359@gmail.com)
 
 하나금융티아이에서 금융 WebView와 관리자 시스템을 개발하고 있습니다.<br>
-빌드 성능 개선, 인증 흐름 공통화, 웹 접근성, 운영 자동화를 통해 사용자 및 동료의 불편을 줄이기 위해 노력하고 있습니다.
+빌드 성능 개선, 인증 흐름 공통화, 웹 접근성, 운영 자동화를 통해 팀내 비효율을 줄이기 위해 노력하고 있습니다.
 
 실무에서는 **Vue 와 Spring Boot**, 개인 프로젝트와 사내 CoP 및 사이드 프로젝트 에서는 **React, Next.js, TypeScript**를 사용하고 있습니다.
 
