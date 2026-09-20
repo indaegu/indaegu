@@ -1,78 +1,19 @@
 # 성창민 (Changmin Seong)
 
-**Frontend-focused Fullstack Developer**
+**Fullstack Developer / Product Engineer**
 
 > “원래 이렇게 해요”를 그냥 넘기지 않는 개발자 성창민입니다.
 
-[Portfolio](https://portfolio.hys1693359.workers.dev/) | [Email](mailto:hys1693359@gmail.com)
+**[포트폴리오에서 프로젝트와 구현 과정 보기 →](https://portfolio.hys1693359.workers.dev/)**
 
-하나금융티아이에서 금융 WebView와 관리자 시스템을 개발하고 있습니다.<br>
-빌드 성능 개선, 인증 흐름 공통화, 웹 접근성, 운영 자동화를 통해 팀내 비효율을 줄이기 위해 노력하고 있습니다.
+하나금융티아이에서 금융 서비스의 WebView와 Spring Boot 서버를 개발하고 운영합니다.<br>
+화면과 서버, 서비스 출시 이후의 운영까지 살피며 반복되는 비효율을 개선합니다.
 
-실무에서는 **Vue 와 Spring Boot**, 개인 프로젝트와 사내 CoP 및 사이드 프로젝트 에서는 **React, Next.js, TypeScript**를 사용하고 있습니다.
+- **실무 개선:** 풀빌드 5분대 → 1분대 단축, 모바일 신분증 연동, 운영 업무 개선
+- **[HANARO](https://portfolio.hys1693359.workers.dev/projects/hanaro/):** 카드 혜택 관리와 추천 서비스를 기획부터 화면, 서버, 배포까지 1인 개발
+- **[수신호](https://portfolio.hys1693359.workers.dev/projects/mulsigye/):** 공공데이터 기반 물관리 서비스의 웹, Android와 공통 API 개발
+- **[OSS Wizard](https://portfolio.hys1693359.workers.dev/projects/sbom-platform/):** 사내 CoP 6인 팀 리더로 SBOM 취약점 관리 플랫폼의 프론트엔드 설계 및 개발
 
-## Experience
+주로 사용하는 기술: `Vue` `React` `Next.js` `TypeScript` `Java` `Spring Boot` `Kotlin`
 
-**하나금융티아이 | 비대면채널파트 | Fullstack Developer, 재직 중**
-
-하나원큐 저축은행의 스마트뱅킹을 담당하고 있으며, 하나은행 제휴 채널과 관리자 시스템을 함께 개발하고 있습니다.<br>
-WebView, 서버 API, 외부기관 연동부터 빌드부터 배포까지 담당중입니다.
-
-| 주요 경험 | 개선 내용과 결과 |
-| :--- | :--- |
-| **빌드 성능 개선** | 라우터 import 경로와 청크 구성을 정리해 불필요한 빌드 대상을 제거. **풀빌드 5분대 → 1분대, 약 80% 단축** |
-| **금융 인증 공통화** | 기존 인증 모달을 공통 래퍼로 캡슐화하고 성공, 취소, 실패 및 중복 콜백 처리를 일원화. **공공마이데이터 조회 전문 4종 전환, 상품별 중복 구현 제거** |
-| **운영 자동화** | 이미지 등록을 관리자 기능으로 전환하고 업로드 및 조회 API를 표준화. **현업 직접 등록으로 개발자 수동 반입 절차 제거**, 타 3개 채널에 참조 구현체 제공 |
-| **웹 접근성 개선** | WAI-ARIA 상태 전달과 스크린리더 대체텍스트를 개선. 기존 화면 동작을 유지하며 **심사 지적 웹 영역 전건 대응, 1차 심사 통과** |
-| **공시 데이터 구조 개선** | 원본 표기값을 보존하는 DB 모델과 이관 검증 스크립트 적용. **41개 분기 556행 이관**, 원본 데이터 오류 검출 및 교정 |
-
-여신거래 및 오픈뱅킹 **안심차단 2종의 신청, 조회, 해제 흐름**도 웹과 서버 전 구간에 신규 구축했습니다.
-
-## Selected Projects
-
-### 수신호 | AI 물관리 코치
-
-**개인 프로젝트, 기획부터 웹과 Android 앱까지 단독 개발**  
-제3회 KRC AI 디지털 혁신 공모전 출품작
-
-[GitHub](https://github.com/indaegu/3rd-krc-ai-digital) | [Live Demo](https://3rd-krc-ai-digital-web.vercel.app/)
-
-`Next.js` `TypeScript` `Kotlin` `Jetpack Compose` `Supabase` `Vercel` `Claude API`
-
-공공데이터 5종을 활용해 농업용수 부족 가능 시점과 대응 행동을 안내하는 반응형 웹 및 Android 앱을 1인 개발하였습니다.
-
-- **AI 응답 범위와 실패 시 동작 설계:** 서버가 허용한 행동만 LLM이 설명하도록 제한하고, 장애나 예산 초과 시 정적 안내로 전환하도록 했습니다.
-- **클라이언트 간 연동 규격 관리:** 모노레포에서 웹과 Android가 공통 OpenAPI 계약을 사용하도록 구성했습니다.
-
-### SBOM 기반 오픈소스 취약점 관리 플랫폼
-
-**사내 CoP 6인 팀 팀장, 프론트엔드 단독 담당 | 2026.04 ~ 진행 중**
-
-`Next.js` `TypeScript` `TanStack Query` `AWS` `Docker`
-
-사내 오픈소스 자산과 취약점을 조기 탐지하는 플랫폼을 개발하고 있습니다.
-
-- **프론트엔드 설계 및 구현:** SBOM 기반 자산 현황과 취약점 정보를 보여주는 화면과 프론트엔드 아키텍처를 담당하고 있습니다.
-
-## How I Work
-
-- **비효율을 적극 개선하고 있습니다.** 입사 부터 이어져온 비율적인 업무 방식을 주도적으로 건의하여 프로그램으로 하나씩 해결 해나가고 있습니다.
-- **변경 범위와 위험을 관리합니다.** 기존 API 계약을 유지하며 레거시 코드를 단계적으로 분리하며 개선하고 있습니다.
-- **개인의 업무를 팀의 개선으로 연결시키고 있습니다.** 공통 모듈과 기술 문서를 남기고, 개발 당시 고민한 내용들을 문서화 하여 팀에 공유하고 있습니다.
-
-## Tech Stack
-
-| 사용 맥락 | 기술 |
-| :--- | :--- |
-| **실무 프론트엔드** | JavaScript, Vue 2, Webpack, WebView, WAI-ARIA |
-| **실무 서버 및 배포** | Java, Spring Boot, MyBatis, PostgreSQL, Redis, Jenkins, Docker, GitLab |
-| **사이드 프로젝트 및 사내 CoP** | TypeScript, React, Next.js, TanStack Query, Kotlin, Jetpack Compose, Supabase, Vercel, AWS |
-
-## Awards
-
-| 일자 | 수상 및 선정 |
-| :--- | :--- |
-| 2025.07 | **ICT&디지털혁신본부 2025년 상반기 우수직원** 선정, 빌드 최적화 성과 |
-| 2024.10 | 마이크로소프트 클라우드 AI 모델 경진대회 **최우수상** |
-| 2023.12 | 한국소프트웨어기술진흥협회 **프로젝트 최우수상** |
-| 2023.12 | ICT 한이음 공모전 **한국정보산업연합회장상** |
+[Email](mailto:hys1693359@gmail.com)
