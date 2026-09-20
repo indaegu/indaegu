@@ -9,11 +9,22 @@
 하나금융티아이에서 금융 서비스의 WebView와 Spring Boot 서버를 개발하고 운영합니다.<br>
 화면과 서버, 서비스 출시 이후의 운영까지 살피며 반복되는 비효율을 개선합니다.
 
-- **실무 개선:** 풀빌드 5분대 → 1분대 단축, 모바일 신분증 연동, 운영 업무 개선
-- **[HANARO](https://portfolio.hys1693359.workers.dev/projects/hanaro/):** 카드 혜택 관리와 추천 서비스를 기획부터 화면, 서버, 배포까지 1인 개발
-- **[수신호](https://portfolio.hys1693359.workers.dev/projects/mulsigye/):** 공공데이터 기반 물관리 서비스의 웹, Android와 공통 API 개발
-- **[OSS Wizard](https://portfolio.hys1693359.workers.dev/projects/sbom-platform/):** 사내 CoP 6인 팀 리더로 SBOM 취약점 관리 플랫폼의 프론트엔드 설계 및 개발
+### 주요 기술
 
-주로 사용하는 기술: `Vue` `React` `Next.js` `TypeScript` `Java` `Spring Boot` `Kotlin`
+![Vue](https://img.shields.io/badge/Vue-334155?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=60A5FA)
+![Java](https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-334155?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Kotlin](https://img.shields.io/badge/Kotlin-334155?style=flat-square&logo=kotlin&logoColor=C4B5FD)
 
 [Email](mailto:hys1693359@gmail.com)
+
+### GitHub 기여 기록
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img alt="성창민의 GitHub 기여 기록을 보여주는 3D 그래프" src="./profile-3d-contrib/profile-green.svg" width="100%">
+</picture>
