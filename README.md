@@ -1,6 +1,6 @@
 # 성창민 (Changmin Seong) / **[Portfolio](https://portfolio.hys1693359.workers.dev/)**
 
-**Fullstack Developer / Product Engineer**
+**Frontend Developer**
 
 > “원래 이렇게 해요”를 그냥 넘기지 않는 개발자 성창민입니다.
 
